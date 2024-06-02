@@ -19,6 +19,10 @@ This is a simple Android application for managing a Magic: The Gathering card in
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 
+## Screenshots
+![CSI460Midterm](https://github.com/Wilsome/MTGCardInventory/assets/92609950/b4fbf67e-9b57-4906-9b42-ee95e1f14946)
+![CSI460Midterm2](https://github.com/Wilsome/MTGCardInventory/assets/92609950/1c707dc8-a16b-42b4-a7f9-238e729e001a)
+
 ## Usage
 1. On the main screen, tap the floating action button (FAB) to add a new card.
 2. Fill in the card details and tap the save button.
