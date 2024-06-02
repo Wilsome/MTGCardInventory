@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name" />
+
+    <EditText
+        android:id="@+id/editTextSet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Set" />
+
+    <EditText
+        android:id="@+id/editTextRarity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Rarity" />
+
+    <EditText
+        android:id="@+id/editTextCondition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Condition" />
+
+    <EditText
+        android:id="@+id/editTextQuantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Quantity"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/buttonUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update" />
+</LinearLayout>
